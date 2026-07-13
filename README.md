@@ -1,4 +1,5 @@
-https://githubtocolab.com/skrankov/StatAnalysisAAUP/blob/main/StatAnalysis.ipynb
+https://nbviewer.org/github/awpxxda/StatAnalysisAAUP/blob/main/StatAnalysis.ipynb
+
 # StatAnalysisAAUP
 1. Описательные характеристики: Рассчитаны выборочные средние, дисперсии, коэффициенты асимметрии и эксцесса для признаков A5, A7 и A8.
 2. Проверка на нормальность: Использовались критерии хи-квадрат и Харке-Бера. Установлено, что распределение зарплат ассистентов (A7) отлично от нормального.
